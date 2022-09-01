@@ -10,10 +10,10 @@ int main() {
     struct Dictionary my_dict = dictionary_constructor(compare_string_keys);
 
     char * key1 = "empId";
-    char * value1 = "54235";
+    char * value1 = "945211";
 
     char * key2 = "name";
-    char * value2 = "Armando Hernández Marin";
+    char * value2 = "Armando H";
 
     char * key3 = "salary";
     double value3 = 89000.50; 
